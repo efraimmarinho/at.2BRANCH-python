@@ -8,3 +8,5 @@ if __name__ == "__main__":
     pred = [1.0, 2.7, 4.0]
 
 print("Sistema inicializado com sucesso!")
+
+def mae(v1, v2):
